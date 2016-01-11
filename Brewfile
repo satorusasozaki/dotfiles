@@ -1,31 +1,33 @@
 # update Homebrew
-update
-
+'update'
 # update Formula
-upgrade
-
+'upgrade'
+# specify a directory to install
+cask_args appdir: '/Applications'
 # install packages
-install git
-install bash-completion
-install jekyll
-install tree
-install node
-install neovim
-install jenkins
-
+tap 'caskroom/homebrew-cask' || true
+brew 'git'
+brew 'bash-completion'
+brew 'tree'
+brew 'node'
+tap 'neovim/neovim' || true
+brew 'neovim'
+brew 'jenkins'
+brew 'wget'
 # Casks
-intall brew-cask
-cask install google-chrome
-cask install dropbox
-cask install alfred
-cask install evernote
-cask install flux
-cask install skype
-cask install virtualbox
-cask install slack
-cask install spotify
-cask install kindle
-cask install 1password
-cask install iterm2
-cask install calibre
-cask install dash
+cask 'google-chrome'
+cask 'dropbox'
+cask 'alfred'
+cask 'evernote'
+cask 'flux'
+cask 'skype'
+cask 'virtualbox'
+cask 'slack'
+cask 'spotify'
+cask 'kindle'
+cask '1password'
+cask 'iterm2'
+cask 'calibre'
+cask 'dash'
+# Gem
+gem 'jekyll'
