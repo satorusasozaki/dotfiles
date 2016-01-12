@@ -1,4 +1,3 @@
-source ~/.vimrc
 if has('vim_starting')
   if &compatible
     set nocompatible               " Be iMproved

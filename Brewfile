@@ -12,6 +12,8 @@ brew 'tree'
 brew 'node'
 tap 'neovim/neovim' || true
 brew 'neovim'
+# need to install java before jenkins
+cask 'java'
 brew 'jenkins'
 brew 'wget'
 # Casks
@@ -30,4 +32,5 @@ cask 'iterm2'
 cask 'calibre'
 cask 'dash'
 # Gem
-gem 'jekyll'
+#gem install jekyll
+#gem install cocoapods

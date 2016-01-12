@@ -1,5 +1,8 @@
 #!/bin/bash
-ln -sf ~/dotfile/.nvimrc ~/.nvimrc
+ln -sf ~/dotfile/.vimrc ~/.vimrc
 ln -sf ~/dotfile/.nvimrc ~/.nvimrc
 ln -sf ~/dotfile/.bash_profile ~/.bash_profile
 ln -sf ~/dotfile/.bashrc ~/.bashrc
+ln -sf ~/dotfile/Brewfile ~/Brewfile
+ln -sf ~/dotfile/.config ~/.config
+
