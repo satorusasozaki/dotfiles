@@ -1,7 +1,3 @@
-# update Homebrew
-'update'
-# update Formula
-'upgrade'
 # specify a directory to install
 cask_args appdir: '/Applications'
 # install packages
