@@ -27,7 +27,4 @@ cask '1password'
 cask 'iterm2'
 cask 'calibre'
 cask 'dash'
-# Gem
-#gem install jekyll
-#gem install cocoapods
 
