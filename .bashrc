@@ -7,3 +7,6 @@ alias dl="cd ~/Downloads"
 alias add="git add . --all"
 alias commit="git commit"
 alias push="git push origin master"
+
+export NVM_DIR="/Users/satoru/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
