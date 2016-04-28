@@ -33,7 +33,7 @@ cask 'edgeview'
 cask 'google-drive'
 cask 'skitch'
 cask 'licecap'
-
+cask 'macdown'
 # for indigo theme
 # https://github.com/sergiokopplin/indigo
 # http://bundler.io/
