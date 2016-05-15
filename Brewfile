@@ -31,9 +31,16 @@ cask 'dash'
 cask 'atom'
 cask 'edgeview'
 cask 'google-drive'
+cask 'firefox'
 cask 'skitch'
 cask 'licecap'
-cask 'macdown'
+cask 'macdown' #markdown viewer
+cask 'sublime'
+# To convert mov to gif
+# https://gist.github.com/dergachev/4627207
+cask 'xquartz'
+brew 'gifsicle'
+
 # for indigo theme
 # https://github.com/sergiokopplin/indigo
 # http://bundler.io/
@@ -51,3 +58,5 @@ tap 'argon/mas'
 brew 'mas'
 # run download_apps later on
 
+#go
+brew 'go'
