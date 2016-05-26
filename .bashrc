@@ -11,3 +11,4 @@ export PATH=/usr/local/bin:$PATH
 
 # for golang
 export GOPATH=~/.go
+export PATH=$PATH:$GOPATH/bin
