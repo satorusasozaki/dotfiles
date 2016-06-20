@@ -60,3 +60,7 @@ brew 'mas'
 
 #go
 brew 'go'
+
+# python
+brew 'python'
+brew 'python3'
