@@ -64,3 +64,5 @@ brew 'go'
 # python
 brew 'python'
 brew 'python3'
+
+brew 'carthage'
