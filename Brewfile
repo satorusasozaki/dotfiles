@@ -3,6 +3,7 @@
 cask_args appdir: '/Applications'
 # install packages
 tap 'caskroom/homebrew-cask' || true
+tap 'caskroom/versions' || true
 brew 'git'
 brew 'bash-completion'
 brew 'tree'
@@ -25,7 +26,7 @@ cask 'slack'
 cask 'spotify'
 cask 'kindle'
 cask '1password'
-cask 'iterm2'
+cask 'iterm2-nightly'
 cask 'calibre'
 cask 'dash'
 cask 'atom'
@@ -66,3 +67,6 @@ brew 'python'
 brew 'python3'
 
 brew 'carthage'
+
+# for my blog, install jekyll and bundler
+# https://github.com/sergiokopplin/indigo

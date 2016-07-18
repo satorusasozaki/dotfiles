@@ -18,7 +18,5 @@ export PATH=$PATH:$GOPATH/bin
 # for Ruby
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
-export mt=/Users/satoru/.go/src/github.com/waygo/MachineTranslation/
-
-export WAYGO_RESOURCES=/Users/satoru/.go/src/github.com/waygo/resources
+export mt=/Users/satorusasozaki/.go/src/github.com/TANemesis/MachineTranslation/
 
