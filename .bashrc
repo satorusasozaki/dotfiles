@@ -20,3 +20,6 @@ export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
 export mt=/Users/satorusasozaki/.go/src/github.com/TANemesis/MachineTranslation/
 
+# Make git editor to neovim
+export VISUAL=nvim
+export EDITOR="$VISUAL"
