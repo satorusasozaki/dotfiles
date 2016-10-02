@@ -18,8 +18,8 @@ export PATH=$PATH:$GOPATH/bin
 # for Ruby
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
-export mt=/Users/satorusasozaki/.go/src/github.com/TANemesis/MachineTranslation/
-
+export mt=/Users/satorusasozaki/.go/src/github.com/waygo/MachineTranslation/
+export sampo=/Users/satorusasozaki/Dropbox/VirtualJourney/
 # Make git editor to neovim
 export VISUAL=nvim
 export EDITOR="$VISUAL"
