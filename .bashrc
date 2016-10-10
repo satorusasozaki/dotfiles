@@ -23,3 +23,4 @@ export sampo=/Users/satorusasozaki/Dropbox/VirtualJourney/
 # Make git editor to neovim
 export VISUAL=nvim
 export EDITOR="$VISUAL"
+export JEKYLL_ENV="staging"
