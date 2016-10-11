@@ -12,8 +12,8 @@ export LSCOLORS=gxfxcxdxbxegedabagacad
 export PATH=/usr/local/bin:$PATH
 
 # for golang
-export GOPATH=~/.go
-export PATH=$PATH:$GOPATH/bin
+#export GOPATH=~/.go
+#export PATH=$PATH:$GOPATH/bin
 
 # for Ruby
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
