@@ -15,6 +15,7 @@ cask 'java'
 brew 'jenkins'
 brew 'wget'
 # Casks
+cask 'vlc'
 cask 'google-chrome'
 cask 'dropbox'
 cask 'alfred'

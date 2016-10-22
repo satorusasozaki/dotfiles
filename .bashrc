@@ -12,14 +12,15 @@ export LSCOLORS=gxfxcxdxbxegedabagacad
 export PATH=/usr/local/bin:$PATH
 
 # for golang
-#export GOPATH=~/.go
-#export PATH=$PATH:$GOPATH/bin
+export GOPATH=~/.go
+export PATH=$PATH:$GOPATH/bin
 
 # for Ruby
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
 export mt=/Users/satorusasozaki/.go/src/github.com/waygo/MachineTranslation/
 export sampo=/Users/satorusasozaki/Dropbox/VirtualJourney/
+export codepath=/Users/satorusasozaki/Dropbox/Codepath-2016-iOS-Airbnb-Course
 # Make git editor to neovim
 export VISUAL=nvim
 export EDITOR="$VISUAL"
