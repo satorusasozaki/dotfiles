@@ -3,7 +3,7 @@
 export GITAWAREPROMPT=~/dotfile/.bash/git-aware-prompt
 source "${GITAWAREPROMPT}/main.sh"
 #export PS1="\u@\h \W \[$txtcyn\]\$git_branch\[$txtred\]\$git_dirty\[$txtrst\]\$ "
-export PS1="\[\033[32m\]\W \[$txtcyn\]\$git_branch\[\033[0m\]$ \[\033[0m\]"
+export PS1="\[\033[32m\]\W \[$txtylw\]\$git_branch\[\033[0m\]$ \[\033[0m\]"
 export NVIM_TUI_ENABLE_TRUE_COLOR=1
 source ~/.git-completion.bash
 export NVM_DIR="/Users/satoru/.nvm"
