@@ -41,6 +41,7 @@ cask 'sublime'
 # To convert mov to gif
 # https://gist.github.com/dergachev/4627207
 cask 'xquartz'
+cask 'fluid'
 brew 'gifsicle'
 
 # for indigo theme
