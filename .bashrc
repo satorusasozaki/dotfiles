@@ -22,9 +22,12 @@ export mt=/Users/satorusasozaki/.go/src/github.com/waygo/MachineTranslation/
 export sampo=/Users/satorusasozaki/Dropbox/VirtualJourney/
 export codepath=/Users/satorusasozaki/Dropbox/Codepath-2016-iOS-Airbnb-Course
 export satorusasozaki=/Users/satorusasozaki/Dropbox/satorusasozaki.github.io
-export bme=/Users/satorusasozaki/Dropbox/BMe
+export bme=/Users/satorusasozaki/Dropbox/Code/BMe
 # Make git editor to neovim
 export VISUAL=nvim
 export EDITOR="$VISUAL"
 export JEKYLL_ENV="staging"
 
+export APPLEDOC_PATH=/usr/local/bin/appledoc
+
+alias sshb='ssh -l sp17a01 slackstu.net'
