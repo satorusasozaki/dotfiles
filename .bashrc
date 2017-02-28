@@ -21,6 +21,7 @@ export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 export mt=/Users/satorusasozaki/.go/src/github.com/waygo/MachineTranslation/
 export satorusasozaki=/Users/satorusasozaki/Dropbox/satorusasozaki.github.io
 export bme=/Users/satorusasozaki/Dropbox/Code/SunsetHQ/BMe
+alias sunsethq='cd /Users/satorusasozaki/Dropbox/Code/SunsetHQ'
 # Make git editor to neovim
 export VISUAL=nvim
 export EDITOR="$VISUAL"
