@@ -29,4 +29,3 @@ export JEKYLL_ENV="staging"
 
 export APPLEDOC_PATH=/usr/local/bin/appledoc
 
-alias sshb='ssh -l sp17a01 slackstu.net'
