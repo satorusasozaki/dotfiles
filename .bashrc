@@ -29,3 +29,4 @@ export JEKYLL_ENV="staging"
 
 export APPLEDOC_PATH=/usr/local/bin/appledoc
 
+alias chrome='open /Applications/Google\ Chrome.app/'
