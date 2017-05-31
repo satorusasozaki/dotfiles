@@ -72,3 +72,5 @@ brew 'carthage'
 
 # for my blog, install jekyll and bundler
 # https://github.com/sergiokopplin/indigo
+
+brew cask keybase
