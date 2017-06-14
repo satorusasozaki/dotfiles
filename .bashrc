@@ -22,6 +22,7 @@ export mt=/Users/satorusasozaki/.go/src/github.com/waygo/MachineTranslation/
 export satorusasozaki=/Users/satorusasozaki/Dropbox/satorusasozaki.github.io
 export bme=/Users/satorusasozaki/Dropbox/Code/SunsetHQ/BMe
 alias sunsethq='cd /Users/satorusasozaki/Dropbox/Code/SunsetHQ && ls'
+alias figevil='cd /Users/satorusasozaki/Dropbox/Code/SunsetHQ/figevil && open . -a xcode'
 # Make git editor to neovim
 export VISUAL=nvim
 export EDITOR="$VISUAL"
