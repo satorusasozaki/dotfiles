@@ -74,3 +74,4 @@ brew 'carthage'
 # https://github.com/sergiokopplin/indigo
 
 brew cask keybase
+brew mpg123
