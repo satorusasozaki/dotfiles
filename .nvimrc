@@ -52,7 +52,7 @@ set background=dark
 " Show programming syntax
 syntax on
 
-" Show lines 
+" Show lines
 set number
 
 " config to soft tab
@@ -62,13 +62,13 @@ set softtabstop=2 shiftwidth=2 expandtab
 set autoread
 
 "Copy indent from current line when starting a new line
-set autoindent 
+set autoindent
 "when we autoindent, backspace will delete the entire tab width, not just individual spaces
-set smarttab 
+set smarttab
 set smartindent
 
 
-" Always show status 
+" Always show status
 set laststatus=2
 
 "searching

@@ -75,6 +75,8 @@ mas install 1028905953 # betternet
 git config --global user.name satorusasozaki
 git config --global user.email sasozakisatoru@gmail.com
 
+# TODO clone git://github.com/jimeh/git-aware-prompt.git to dotfiles/.bash/
+
 # Make symlinks
 ln -sf ~/dotfiles/.vimrc ~/.vimrc
 ln -sf ~/dotfiles/.nvimrc ~/.nvimrc
