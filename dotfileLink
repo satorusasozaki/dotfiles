@@ -1,8 +1,8 @@
 #!/bin/bash
-ln -sf ~/dotfile/.vimrc ~/.vimrc
-ln -sf ~/dotfile/.nvimrc ~/.nvimrc
-ln -sf ~/dotfile/.bash_profile ~/.bash_profile
-ln -sf ~/dotfile/.bashrc ~/.bashrc
-ln -sf ~/dotfile/Brewfile ~/Brewfile
-ln -sf ~/dotfile/.config ~/.config
-ln -sf ~/dotfile/.git-completion.bash ~/.git-completion.bash
+ln -sf ~/dotfiles/.vimrc ~/.vimrc
+ln -sf ~/dotfiles/.nvimrc ~/.nvimrc
+ln -sf ~/dotfiles/.bash_profile ~/.bash_profile
+ln -sf ~/dotfiles/.bashrc ~/.bashrc
+ln -sf ~/dotfiles/Brewfile ~/Brewfile
+ln -sf ~/dotfiles/.config ~/.config
+ln -sf ~/dotfiles/.git-completion.bash ~/.git-completion.bash

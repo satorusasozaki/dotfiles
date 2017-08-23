@@ -1,6 +1,6 @@
 # show git branch
 # https://github.com/jimeh/git-aware-prompt
-export GITAWAREPROMPT=~/dotfile/.bash/git-aware-prompt
+export GITAWAREPROMPT=~/dotfiles/.bash/git-aware-prompt
 source "${GITAWAREPROMPT}/main.sh"
 export PS1="\[\033[32m\]\W \[$txtylw\]\$git_branch\[\033[0m\]$ \[\033[0m\]"
 export NVIM_TUI_ENABLE_TRUE_COLOR=1
@@ -18,19 +18,10 @@ export PATH=$PATH:$GOPATH/bin
 # for Ruby
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
-export mt=/Users/satorusasozaki/.go/src/github.com/waygo/MachineTranslation/
-export satorusasozaki=/Users/satorusasozaki/Dropbox/satorusasozaki.github.io
-export bme=/Users/satorusasozaki/Dropbox/Code/SunsetHQ/BMe
-alias sunsethq='cd /Users/satorusasozaki/Dropbox/Code/SunsetHQ && ls'
 alias figevil='cd /Users/satorusasozaki/Dropbox/Code/SunsetHQ/figevil && open . -a xcode'
 # Make git editor to neovim
 export VISUAL=nvim
 export EDITOR="$VISUAL"
 export JEKYLL_ENV="staging"
 
-export APPLEDOC_PATH=/usr/local/bin/appledoc
-
-alias chrome='open /Applications/Google\ Chrome.app/'
-xcode() {
-  open $1 -a xcode
-}
+export HOMEBREW_CASK_OPTS="--appdir=/Applications"

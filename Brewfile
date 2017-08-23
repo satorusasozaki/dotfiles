@@ -50,8 +50,8 @@ brew 'gifsicle'
 
 # for react native to run the facebook F8 app
 # https://github.com/fbsamples/f8app
-brew 'watchman' # https://facebook.github.io/watchman/docs/install.html 
-brew 'flow' # http://www.flowtype.org/ 
+brew 'watchman' # https://facebook.github.io/watchman/docs/install.html
+brew 'flow' # http://www.flowtype.org/
 brew 'mongodb' # https://www.mongodb.org/downloads#production
 
 # A command to download mac store app
