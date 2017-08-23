@@ -16,8 +16,8 @@ brew install 'neovim'
 
 # Jenkins
 brew cask install 'java'
-brew cask install 'jenkins'
-brew cask install 'wget'
+brew install 'jenkins'
+brew install 'wget'
 
 # Casks
 brew cask install 'vlc'
