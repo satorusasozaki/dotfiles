@@ -12,7 +12,6 @@ brew install 'bash-completion'
 brew install 'tree'
 brew install 'node'
 brew install 'mpg123'
-brew install 'neovim'
 
 # Jenkins
 brew cask install 'java'
@@ -79,7 +78,6 @@ git config --global user.email sasozakisatoru@gmail.com
 
 # Make symlinks
 ln -sf ~/dotfiles/.vimrc ~/.vimrc
-ln -sf ~/dotfiles/.nvimrc ~/.nvimrc
 ln -sf ~/dotfiles/.bash_profile ~/.bash_profile
 ln -sf ~/dotfiles/.bashrc ~/.bashrc
 ln -sf ~/dotfiles/Brewfile ~/Brewfile

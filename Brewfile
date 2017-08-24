@@ -8,8 +8,6 @@ brew 'git'
 brew 'bash-completion'
 brew 'tree'
 brew 'node'
-tap 'neovim/neovim' || true
-brew 'neovim'
 # need to install java before jenkins
 cask 'java'
 brew 'jenkins'
