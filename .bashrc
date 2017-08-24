@@ -20,7 +20,8 @@ export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
 alias figevil='cd /Users/satorusasozaki/Dropbox/Code/SunsetHQ/figevil && open . -a xcode'
 # Make git editor to neovim
-export VISUAL=nvim
+#export VISUAL=nvim
+export VISUAL=vim
 export EDITOR="$VISUAL"
 export JEKYLL_ENV="staging"
 
