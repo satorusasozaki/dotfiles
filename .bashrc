@@ -15,7 +15,7 @@ export PATH=$PATH:$GOPATH/bin
 # for Ruby
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
-alias figevil='cd /Users/satorusasozaki/Dropbox/Code/SunsetHQ/figevil && open . -a xcode'
+alias say='cd /Users/satorusasozaki/Dropbox/Code/SunsetHQ/say && open . -a xcode'
 # Make git editor to neovim
 export VISUAL=vim
 export EDITOR="$VISUAL"
