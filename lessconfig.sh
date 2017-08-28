@@ -11,24 +11,24 @@ brew install 'git'
 brew install 'bash-completion'
 brew install 'tree'
 
+# Casks
+brew cask install 'iterm2'
+brew cask install 'alfred'
+brew cask install 'dropbox'
+brew cask install '1password'
+brew cask install 'google-chrome'
+brew cask install 'evernote'
+brew cask install 'slack'
+brew cask install 'flux'
+brew cask install 'atom'
+brew cask install 'vlc'
+brew cask install 'skype'
+brew cask install 'spotify'
+brew cask install 'kindle'
+
 # Jenkins
 brew cask install 'java'
 brew install 'wget'
-
-# Casks
-brew cask install 'vlc'
-brew cask install 'google-chrome'
-brew cask install 'dropbox'
-brew cask install 'alfred'
-brew cask install 'evernote'
-brew cask install 'flux'
-brew cask install 'skype'
-brew cask install 'slack'
-brew cask install 'spotify'
-brew cask install 'kindle'
-brew cask install '1password'
-brew cask install 'iterm2'
-brew cask install 'atom'
 
 brew install 'mas'
 mas install 417375580 # BetterSnapTool
@@ -36,7 +36,6 @@ mas install 410628904 # Wunderlist
 mas install 961632517 # Be Focused Pro
 mas install 1003160018 # quip
 
-# TODO clone git://github.com/jimeh/git-aware-prompt.git to dotfiles/.bash/
 mkdir ~/dotfiles/.bash/
 cd ~/dotfiles/.bash/
 git clone git://github.com/jimeh/git-aware-prompt.git
