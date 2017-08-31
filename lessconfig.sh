@@ -40,6 +40,9 @@ mkdir ~/dotfiles/.bash/
 cd ~/dotfiles/.bash/
 git clone git://github.com/jimeh/git-aware-prompt.git
 
+# Move code snippets to Xcode
+cp -R ~/dotfiles/CodeSnippets ~/Library/Developer/Xcode/UserData/
+
 # Make symlinks
 ln -sf ~/dotfiles/.vimrc ~/.vimrc
 ln -sf ~/dotfiles/.bash_profile ~/.bash_profile
