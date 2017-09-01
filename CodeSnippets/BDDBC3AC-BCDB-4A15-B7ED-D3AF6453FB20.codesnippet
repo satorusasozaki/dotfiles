@@ -6,21 +6,21 @@
 	<string>print</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>print("Error: ")</string>
+	<string>print("Error: &lt;#comment#&gt;")</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BDDBC3AC-BCDB-4A15-B7ED-D3AF6453FB20</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>print error</string>
+	<string>Print error</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>print error</string>
+	<string>Error</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
