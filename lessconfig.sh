@@ -11,6 +11,8 @@ brew list 'git' || brew install 'git'
 brew list 'bash-completion' || brew install 'bash-completion'
 brew list 'tree' || brew install 'tree'
 
+brew list 'mpg123' || brew install 'mpg123'
+
 # Casks
 brew cask list 'iterm2' || brew cask install 'iterm2'
 brew cask list 'alfred' || brew cask install 'alfred'
