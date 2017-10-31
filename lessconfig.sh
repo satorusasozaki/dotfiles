@@ -32,8 +32,9 @@ brew cask list 'spotify' || brew cask install 'spotify'
 #brew list 'wget' || brew install 'wget'
 
 brew list 'mas' || brew install 'mas'
-mas install 417375580 # BetterSnapTool
+#mas install 417375580 # BetterSnapTool
 mas install 410628904 # Wunderlist
+mas install 441258766 # magnet
 #mas install 961632517 # Be Focused Pro
 #mas install 1003160018 # quip
 
