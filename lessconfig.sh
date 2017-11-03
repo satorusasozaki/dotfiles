@@ -37,6 +37,7 @@ mas install 410628904 # Wunderlist
 mas install 441258766 # magnet
 #mas install 961632517 # Be Focused Pro
 #mas install 1003160018 # quip
+mas install 1028905953 # Betternet Unlimited VPN Proxy
 
 mkdir ~/dotfiles/.bash/
 cd ~/dotfiles/.bash/
