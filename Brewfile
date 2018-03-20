@@ -70,6 +70,6 @@ brew 'carthage'
 
 # for my blog, install jekyll and bundler
 # https://github.com/sergiokopplin/indigo
-
+brew 'yarn' # To edit app.css in Jekyll theme duo
 brew cask keybase
 brew mpg123

@@ -5,6 +5,7 @@ source "${GITAWAREPROMPT}/main.sh"
 export PS1="\[\033[32m\]\W \[$txtylw\]\$git_branch\[\033[0m\]$ \[\033[0m\]"
 source ~/.git-completion.bash
 alias ls='ls -G'
+alias open='open . -a xcode'
 export LSCOLORS=gxfxcxdxbxegedabagacad
 export PATH=/usr/local/bin:$PATH
 

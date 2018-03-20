@@ -1,0 +1,40 @@
+{
+	"analytics-uuid": "61e27478-aeb9-45dc-a94a-028e4f783e15",
+	"motd": {
+		"minVersion": "3.0.5"
+	},
+	"motd.fetched": 1520279006243,
+	"usage": true,
+	"user": {
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "106822220920666843641",
+		"hd": "eversummer.io",
+		"email": "sato@eversummer.io",
+		"email_verified": true,
+		"at_hash": "nG0cjucGYIv_iTnd04hOng",
+		"exp": 1519693880,
+		"iss": "accounts.google.com",
+		"iat": 1519690280
+	},
+	"tokens": {
+		"expires_at": 1520304199869,
+		"refresh_token": "1/yEQP1ywDETcjxKHCcfYMJ5jVj18ENQYuqR1m6RyaBgU",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.Glx2BfDkesvj-f9w6W4Uh7iz8mDjoYc_OdMefvhODZjp9Un8iUOi56Ws__WrCCYfkUDRdTyQWJz2Zj5_7K_CM_XQtPp5yZAL00EVfJMuzySiQEolxn3eMrlwPi9g0Q",
+		"token_type": "Bearer",
+		"expires_in": 3600,
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjgzOWI5MjRiYjY1OWYwNzM1OGZkZjgyODhjZTU5ZjE4OWM0MDI4ZjQifQ.eyJhenAiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDY4MjIyMjA5MjA2NjY4NDM2NDEiLCJoZCI6ImV2ZXJzdW1tZXIuaW8iLCJlbWFpbCI6InNhdG9AZXZlcnN1bW1lci5pbyIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoia1RieHZlY0c0aUJUT1dtVVlib09MZyIsImV4cCI6MTUyMDMwNDE5OSwiaXNzIjoiYWNjb3VudHMuZ29vZ2xlLmNvbSIsImlhdCI6MTUyMDMwMDU5OX0.Lju8RXN30wF38HmzTigebxnNfMc5fzu0GFMSOrh6cP_J6mmRYGfTCZmpMXwK_2a_6AIni9VEQWlURxojR9HRfIbP_H2N3vM8_AeXzc15cWJBs5NE1zFhtsT6UA6VYEnUc_E_aQaEni4keyBvSOkrkn41IaBsktUeVra1DM3uCeRYNcvYeXwA00w3Q54DafFCeBlmV65NgH81YwApm3w-XMryLMzwviJVFSwKHUUeZdZYlqMQCYLp66FG13M1EzjZf1OBWKrv5Z7lpIiNRmIRzaJUe99C78YZBG-yBiQZEDojiyQ1RIiD6qe5IEFekOL2em-v7EJLL6Yk6jY6UEbe7g"
+	},
+	"activeProjects": {
+		"/Users/satorusasozaki/Dropbox/Development/Firebase/functions-firecast": "winks-283e6",
+		"/Users/satorusasozaki/Dropbox/Development/Firebase": "sendvideoviaurl",
+		"/Users/satorusasozaki/Dropbox/Development/Firebase/functions-samples/quickstarts/thumbnails": "staging"
+	}
+}
