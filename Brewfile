@@ -73,3 +73,4 @@ brew 'carthage'
 brew 'yarn' # To edit app.css in Jekyll theme duo
 brew cask keybase
 brew mpg123
+brew ffmpeg #to convert mov to mp4
