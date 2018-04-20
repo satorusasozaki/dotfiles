@@ -18,6 +18,7 @@ export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
 alias wink='cd /Users/satorusasozaki/Dropbox/Development/SunsetHQ/say && open . -a xcode'
 alias sunsethq='cd /Users/satorusasozaki/Dropbox/Development/sunsethq && ls'
+alias poppy='cd /Users/satorusasozaki/Dropbox/Development/Poppy && ls'
 # Make git editor to neovim
 export VISUAL=vim
 export EDITOR="$VISUAL"
