@@ -4,6 +4,7 @@
 sudo xcodebuild -license # agree with license
 xcode-select --install # Install command line tool
 
+# Setup estonian ID at the end.
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
